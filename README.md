@@ -1,3 +1,5 @@
+unzip app.zip file
+
 Step 1 :-  npm install
 
 Step 2 :- composer install
